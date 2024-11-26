@@ -264,11 +264,10 @@ footer {
     }
     /* Section Héro */
         .hero h2 {
-            font-size: 1.8rem;
+            font-size: 1.7rem;
         }
-    
-        .hero p {
-            font-size: 0.9rem;
+        p,li{
+            font-size: 15px;
         }
     .page {
         flex-direction: column;
@@ -279,8 +278,6 @@ footer {
     .experiences {
         flex-direction: column;
           gap: 10px;
-      
-        
     }
     
     .experience {
